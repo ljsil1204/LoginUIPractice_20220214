@@ -33,7 +33,10 @@
         android:layout_height="wrap_content"
         android:hint="이메일 양식"
         android:inputType="textEmailAddress"
-        android:layout_marginBottom="15dp"/>
+        android:layout_marginBottom="15dp"
+        android:background="#f5f5f5"
+        android:padding="10dp"
+        />
 
 
     <TextView
@@ -47,7 +50,10 @@
         android:layout_height="wrap_content"
         android:hint="비밀번호 입력"
         android:inputType="textPassword"
-        android:layout_marginBottom="15dp"/>
+        android:layout_marginBottom="15dp"
+        android:background="#f5f5f5"
+        android:padding="10dp"
+        />
 
     <CheckBox
         android:layout_width="match_parent"
