@@ -77,7 +77,9 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:backgroundTint="#2D8CCC"
-            android:text="회원가입"/>
+            android:text="회원가입"
+            android:textSize="16sp"
+            android:padding="10dp"/>
 
         <Button
             android:layout_width="0dp"
@@ -85,7 +87,9 @@
             android:layout_weight="1"
             android:layout_marginLeft="10dp"
             android:backgroundTint="#323232"
-            android:text="로그인"/>
+            android:text="로그인"
+            android:textSize="16sp"
+            android:padding="10dp"/>
 
     </LinearLayout>
 
