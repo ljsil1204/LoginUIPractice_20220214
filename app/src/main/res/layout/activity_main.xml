@@ -68,12 +68,15 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:backgroundTint="#2D8CCC"
             android:text="회원가입"/>
 
         <Button
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:backgroundTint="#323232"
             android:text="로그인"/>
 
     </LinearLayout>
